@@ -1,0 +1,41 @@
+body{
+    background-color: #000000;
+}
+h1,h2{
+    text-align: left;
+}
+#wraper{
+    width: 360px;
+    height: 560px;
+    margin: auto;
+    background-color: azure;
+    padding: 15px;
+    text-align: right;
+
+}
+input{
+    width: 250px;
+    height: 30px;
+    
+}
+.bm-15{
+    margin-bottom: 15px;
+}
+.box-1{
+    display: inline-block;
+    width: 75px;
+}
+p{
+    color: cornflowerblue;
+    margin: auto;
+    text-align: center;
+}
+.sex{
+    float: right;
+    
+}
+.sign-up{
+    text-align: center;
+    background-color: rgb(195, 233, 130);
+    color: #000000;
+}
